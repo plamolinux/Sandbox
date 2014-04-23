@@ -1,4 +1,4 @@
-# Plamo Linux 用の練習場所
+# Plamo Linux 用の練習場所 (in test branch)
 ## テスト
 テストですよ
 
